@@ -26,3 +26,7 @@ Using the pandas package from python, I analysed data about the players of a vid
 ## Built with
 
 * Python pandas
+
+<img src="image1.png" width=300>
+<img src="image1.png" width=300>
+<img src="image1.png" width=300>
